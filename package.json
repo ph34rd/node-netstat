@@ -1,0 +1,22 @@
+{
+  "name": "node-netstat-binding",
+  "version": "0.1.1",
+  "license" : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ph34rd/node-netstat.git"
+  },
+  "description": "node netstat",
+  "main": "./build/Release/netstat.node",
+  "author": {
+    "name": "ph34rd",
+    "email": "ph34rd@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "nan": "<2.0.0"
+  }
+}
